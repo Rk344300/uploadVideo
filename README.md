@@ -1,5 +1,5 @@
 
-# Video Upload Client
+# Video Upload
 This project is a simple web application for uploading and sharing videos. The client side is built using React and allows users to browse and upload videos.
 
 ## Getting Started Frontend
@@ -14,13 +14,13 @@ This will install the dependencies and start the development server on http://lo
 
 
 # Features
-Browse videos
-Upload new videos
-View details of each video
-Built With
-React
-Redux
-Axios
+- Browse videos 
+- Upload new videos
+- View details of each video
+- Built With
+- React
+- Redux
+- Axios
 
 
 
@@ -35,12 +35,12 @@ This will install the dependencies and start the server on http://localhost:8800
 
 
 # Features
-User authentication
-File uploads
-Video metadata storage
-Built With
-Node.js
-Express
-MongoDB
-Mongoose
+- User authentication
+- File uploads
+- Video metadata storage
+- Built With
+- Node.js
+- Express
+- MongoDB
+- Mongoose
 
